@@ -114,7 +114,7 @@ const Footer = () => {
   Developed by 
   <a
     style={{ marginLeft: '.5rem' }}
-    href="#"
+    href="https://devbyanas.netlify.app/"
     target="_blank"
     rel="noopener noreferrer"
   >
